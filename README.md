@@ -1,10 +1,10 @@
-<div align="center">
+![ram ji](https://github.com/user-attachments/assets/4915c7de-74f8-4851-a9da-2eafa12ba20e)<div align="center">
 
 # 🕉️ Ayodhya Blossom Experience
 
-<img src="https://ibb.co/Q3BFjgNf" alt="Ayodhya Blossom Experience" width="100%">
 
 ### 🙏 Discover the Divine Beauty of Ayodhya 🙏
+![intro](https://github.com/user-attachments/assets/da3a6d96-d99f-4f97-9fc1-83bda5fd5994)
 
 _Experience the spiritual heart of India through our modern web platform_
 
@@ -13,9 +13,10 @@ _Experience the spiritual heart of India through our modern web platform_
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[🌐 Live Demo](https://ayodhya-blossom.vercel.app) · [🐛 Report Bug](https://github.com/KeyToCoding/ayodhya-blossom-experience/issues) · [✨ Request Feature](https://github.com/KeyToCoding/ayodhya-blossom-experience/issues)
+ · [🐛 Report Bug](https://github.com/KeyToCoding/ayodhya-blossom-experience/issues) · [✨ Request Feature](https://github.com/KeyToCoding/ayodhya-blossom-experience/issues)
 
-</div>
+</div>![intro](https://github.com/user-attachments/assets/4a108661-b4da-4ded-8c8a-45385c50b599)
+
 
 ---
 
@@ -66,31 +67,29 @@ _Experience the spiritual heart of India through our modern web platform_
 ## 📸 Screenshots
 
 ### Introduction
-![Introduction](/screenshots/intro.png)
+
+![Home](https://github.com/user-attachments/assets/8c2be0fd-5968-4d2c-917d-94e5985994bd)
+
 *Welcome to the divine experience of Ayodhya*
 
-### Home Page
-![Home Page](/screenshots/Home.png)
-*The divine landing page showcasing Ram Mandir and key attractions*
 
 ### Ram Mandir
-![Ram Mandir Overview](/screenshots/ram.png)
-*Overview of the magnificent Ram Mandir*
+![ram mandir](https://github.com/user-attachments/assets/289ebf4a-6c1a-4974-a58f-0d28b5f88063)
 
-### Mandir Details
-![Ram Mandir Details](/screenshots/mandir.png)
-*Detailed information about the Ram Mandir architecture and significance*
 
 ### Saryu Ghat
-![Saryu Ghat](/screenshots/Saryu%20Ghat.png)
+![Saryu Ghat](https://github.com/user-attachments/assets/44fce9c4-10b0-436b-9cdd-2a61ee3f49f5)
+
 *The sacred Saryu River and its beautiful ghats*
 
 ### Hotels & Accommodation
-![Hotels](/screenshots/Hotels.png)
+![Hotels](https://github.com/user-attachments/assets/ff1e057b-356f-4882-b22d-0a4164bf24ac)
+
 *Find comfortable stays near the temple*
 
 ### Contact Us
-![Contact Us](/screenshots/ContactUs.png)
+![ContactUs](https://github.com/user-attachments/assets/2239e282-c13f-4f2b-b15b-f5494c5b7425)
+
 *Get in touch with us for any queries or assistance*
 
 🚗 **Travel Guide**
@@ -196,6 +195,8 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## 📞 Connect With Us
+![contact us card](https://github.com/user-attachments/assets/417d585c-1cdb-46ae-8008-8aac1771d177)
+
 
 <div align="center">
 
@@ -222,7 +223,8 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
-  <img src="/screenshots/ram.png" alt="Ram Mandir" width="100%">
+  <img src="![ram ji](https://github.com/user-attachments/assets/cda0d39a-aee4-4ef0-9c33-ee24b3eb36a5)
+" alt="Ram Mandir" width="100%">
   
   <h2>🙏 जय श्री राम 🙏</h2>
   <h3><i>Experience the Divine Journey in Ayodhya</i></h3>
