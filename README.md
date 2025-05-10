@@ -1,5 +1,3 @@
-![ram ji](https://github.com/user-attachments/assets/4915c7de-74f8-4851-a9da-2eafa12ba20e)<div align="center">
-
 # 🕉️ Ayodhya Blossom Experience
 
 
@@ -223,7 +221,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
-  <img src="![ram ji](https://github.com/user-attachments/assets/cda0d39a-aee4-4ef0-9c33-ee24b3eb36a5)
+  <img src="
 " alt="Ram Mandir" width="100%">
   
   <h2>🙏 जय श्री राम 🙏</h2>
