@@ -2,7 +2,7 @@
 
 # 🕉️ Ayodhya Blossom Experience
 
-<img src="![intro](https://github.com/user-attachments/assets/94bf717b-9ffe-4221-a137-895a3d3031f9)
+<img src="[![intro](https://github.com/user-attachments/assets/94bf717b-9ffe-4221-a137-895a3d3031f9)](https://ibb.co/Q3BFjgNf)
 " alt="Ayodhya Blossom Experience" width="100%">
 
 ### 🙏 Discover the Divine Beauty of Ayodhya 🙏
